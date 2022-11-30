@@ -1,6 +1,6 @@
 # Hi there 👋, my name is MOSHARAF HOSSAIN
 ### Learn Programming with full focus-
-![Learning Programming with full focus-]()
+![Learning Programming with full focus-](https://pratikjagrut.dev/img/git/github.png)
 
 I work efficiently in to hope of success.
 
